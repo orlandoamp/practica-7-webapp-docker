@@ -1,0 +1,13 @@
+{
+  "name": "practica-7-webapp",
+  "version": "1.0.0",
+  "description": "Practica 7: Aplicacion Web con Dockerfile y Docker Compose conectada a MySQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
